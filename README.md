@@ -3,7 +3,7 @@ Building an MQTT letterbox. // Tutorial
 
 Check out the video on my YouTube channel:
 
- MickMake YouTube channel:    https://www.youtube.com/c/MickMakes
+ MickMake YouTube channel:    https://youtube.com/MickMake
 
  Video:                       https://www.youtube.com/watch?v=gBokIBcEK0E
 
